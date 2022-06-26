@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Meu Bichinho</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="nome">Nome</string>
+    <string name="parenteadd">Parente</string>
+    <string name="parentesco">Parentesco</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="genero">Gênero</string>
+    <string name="ani">Data de nascimento</string>
+    <string name="perfil">Perfil</string>
+    <string name="txt_cadastro">Cadastrar</string>
+    <string name="title_cadastro">Cadastre-se</string>
+
+    <string name="bt_cadastrar">Cadastrar</string>
+    <string name="bt_procurar">Buscar parente</string>
+    <string name="bt_deslogar">Deslogar</string>
+    <string name="bt_lista">Lista de parentes</string>
+    <string name="bt_login">Entrar</string>
+    <string name="bt_add_parent">Adicionar parente</string>
+    <string name="bt_alterar">Alterar dados</string>
+    <string name="bt_edit">Visualizar árvore</string>
+    <string name="bt_delete">Excluir parente</string>
+    <string name="bt_parentesco">Adicionar parentesco</string>
+    <string name="bt_add">Adicionar</string>
+
+    <string name="ex_nome">Willian Massanobu Kohatsu</string>
+    <string name="ex_email">willian.kohatsu@gmail.com</string>
+    <string name="imagem">Imagem</string>
+    <string name="bt_limpar">Remover Parentescos</string>
+
+</resources>
